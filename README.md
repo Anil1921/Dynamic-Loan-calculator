@@ -1,4 +1,7 @@
 # Dynamic-Loan-calculator
+## Try this calculator 
+https://anil1921.github.io/Dynamic-Loan-calculator/
+
 ## Ability of this calculator
 1. User-Friendly Interface: Developed a responsive and intuitive interface using HTML and CSS, ensuring users can easily input loan details and view calculated results.
 2. Dynamic Calculations: Implemented JavaScript functionality to dynamically compute monthly payments, total interest, and overall loan cost based on user inputs.
